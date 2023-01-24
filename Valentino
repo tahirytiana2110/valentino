@@ -3,4 +3,5 @@ $apt upgrade
 $apt install git
 $git clone https://github.com/tahirytiana2110/valentino
 $cd valentino
+$chmod +x install.sh
 $pyton run.py
